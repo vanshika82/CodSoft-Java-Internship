@@ -1,6 +1,6 @@
 # CodSoft-Java-Internship
 
-Here you will find an exciting collection of projects completed during my CodSoft internship program.
+Here you will find an exciting collection of projects completed during my CodSoft Internship.
 
 # Number Game| Task-1
 
